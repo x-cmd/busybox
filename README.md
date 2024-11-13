@@ -5,7 +5,7 @@
 busybox:
 
 - busybox
-- compile from v0.36.1:
+- compile from v1.36.1:
   - https://busybox.net/downloads/busybox-1.36.1.tar.bz2
 
 
